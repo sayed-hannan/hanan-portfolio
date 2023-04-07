@@ -368,6 +368,10 @@ img {
   border-radius: .5rem;
 }
 
+.skills__img img{
+  border-radius: .5rem;
+}
+
 /* ===== WORK =====*/
 .work__container {
   row-gap: 2rem;
